@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/find-pivot-index/submissions/871050592/
 class Solution {
     public int findMiddleIndex(int[] nums) {
         int length = nums.length;
